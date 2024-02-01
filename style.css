@@ -79,3 +79,7 @@
     color: hsl(0, 0%, 12%);
     background-color: rgb(106, 199, 106);    
 }
+
+img {
+    border-radius: 100px;
+}
